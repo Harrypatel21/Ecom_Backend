@@ -15,10 +15,10 @@
       "type": "string"
     },
     "shortDescription": {
-      "type": "blocks"
+      "type": "richtext"
     },
     "longDescription": {
-      "type": "blocks"
+      "type": "richtext"
     },
     "price": {
       "type": "decimal"
